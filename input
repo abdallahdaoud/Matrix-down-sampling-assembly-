@@ -1,0 +1,14 @@
+# file format can be any thing exept you have to be
+# carfule by using digits, minus and dotes
+# exampleA: xaa,xab,xba,xbb
+# exampleB: xaa xab
+# 	    xba xbb
+# exampleC: xaa+xab, xba 
+# 	    xbb
+# where xab = element in first row, second colom
+
+2 5 4 1
+7 4 7 2
+10 11 20 7
+7 12 4 8
+
